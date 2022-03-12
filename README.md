@@ -20,3 +20,6 @@ Iteratively does the following for every .zip in the working directory:
 3. Replace descriptor.mod file name and mod folder name with mod name
 4. Adds path to the mod folder in the renamed .mod file
 5. Moves the .mod out to /Processed/
+
+Method of extraction credited to AlpaxLP, from ff. video: 
+https://www.youtube.com/watch?v=HnUYIVWePFo
